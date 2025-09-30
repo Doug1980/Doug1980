@@ -24,6 +24,4 @@ Sou desenvolvedor web apaixonado por criar projetos criativos e funcionais usand
 - [LinkedIn](https://www.linkedin.com/in/douglas-salazar-14521bba/)
 - [Email](mailto:douglassalazar1980@gmail.com)
 
-### ⚡ Curiosidade
-- Gosto de explorar jogos clássicos e recriá-los de forma criativa na web.
-- Sempre buscando aprender algo novo e desafiar meus limites.
+
