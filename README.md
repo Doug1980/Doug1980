@@ -20,6 +20,20 @@ Sou desenvolvedor web apaixonado por criar projetos criativos e funcionais usand
 - HTML, CSS e JavaScript.
 - Criação de projetos web criativos.
 
+### 🧠 Tecnologias que uso no dia a dia
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" />
+</p>
+
+
+
+---
+
+
 ### 📫 Contato
 - [LinkedIn](https://www.linkedin.com/in/douglas-salazar-14521bba/)
 - [Email](mailto:douglassalazar1980@gmail.com)
