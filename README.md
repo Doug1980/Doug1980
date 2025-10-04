@@ -22,7 +22,7 @@ Profissional com experiência em desenvolvimento web, dedicado à criação de p
 
 ---  
 
-### 🧠 Tecnologias que uso no dia a dia
+### 🧠 Tecnologias de uso no dia a dia
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />  
