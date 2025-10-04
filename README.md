@@ -20,6 +20,8 @@ Profissional com experiência em desenvolvimento web, dedicado à criação de p
 - HTML, CSS e JavaScript.
 - Criação de projetos web criativos.
 
+---  
+
 ### 🧠 Tecnologias que uso no dia a dia
 
 <p align="left">
@@ -51,7 +53,17 @@ Profissional com experiência em desenvolvimento web, dedicado à criação de p
   />
 
 </p>
----
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 
 ### 📫 Contato
 - [LinkedIn](https://www.linkedin.com/in/douglas-salazar-14521bba/)
