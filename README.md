@@ -1,6 +1,6 @@
 ## Olá, eu sou o Douglas 👋
 
-Sou desenvolvedor web apaixonado por criar projetos criativos e funcionais usando **HTML, CSS e JavaScript**. 🚀
+Profissional com experiência em desenvolvimento web, dedicado à criação de projetos que aliam criatividade, desempenho e usabilidade, **`HTML, CSS e JavaScript`**.
 
 ---
 
