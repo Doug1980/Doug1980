@@ -68,8 +68,9 @@ Desenvolvedor Full Stack focado em construir aplicações reais, funcionais e co
 
 ### 📊 Estatísticas
 
-<div align="center">
+<div align="left">
   <img height="180em" src="https://readme-stats-doug.vercel.app/api?username=Doug1980&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+  &nbsp;&nbsp;&nbsp;
   <img height="180em" src="https://readme-stats-doug.vercel.app/api/top-langs/?username=Doug1980&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
 </div>
 ---
