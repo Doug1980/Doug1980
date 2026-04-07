@@ -61,7 +61,7 @@ Desenvolvedor Full Stack focado em construir aplicações reais, funcionais e co
 
 ### 🎯 Buscando
 
-- Minha primeira oportunidade profissional como Desenvolvedor Full Stack
+- Oportunidade profissional como Desenvolvedor Full Stack
 - Contribuir em um time e crescer rapidamente
 
 ---
