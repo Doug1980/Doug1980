@@ -1,6 +1,6 @@
-# Olá, eu sou o Douglas Salazar 👋
+# Olá, eu sou o Douglas Salazar
 
-Desenvolvedor Full Stack apaixonado por construir aplicações reais, funcionais e com foco na experiência do usuário. Atualmente desenvolvendo projetos com stack moderna e boas práticas de mercado.
+Desenvolvedor Full Stack focado em construir aplicações reais, funcionais e com foco na experiência do usuário. Atualmente desenvolvendo projetos com stack moderna e boas práticas de mercado.
 
 ---
 
@@ -68,10 +68,9 @@ Desenvolvedor Full Stack apaixonado por construir aplicações reais, funcionais
 
 ### 📊 Estatísticas
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Doug1980&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)](https://github.com/Doug1980)
+[![GitHub Stats](https://readme-stats-doug.vercel.app/api?username=Doug1980&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)](https://github.com/Doug1980)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doug1980&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)](https://github.com/Doug1980)
-
+[![Top Langs](https://readme-stats-doug.vercel.app/api/top-langs/?username=Doug1980&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)](https://github.com/Doug1980)
 ---
 
 ### 📫 Contato
