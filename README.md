@@ -11,17 +11,35 @@
 
 <div align="center">
   <h3>🎨 Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,styledcomponents&perline=7" width="600" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,styledcomponents,materialui&perline=8" width="600" />
 </div>
 
 <div align="center">
   <h3>⚙️ Backend</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgres,firebase&perline=6" width="520" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,sequelize&perline=4" width="340" />
+</div>
+
+<div align="center">
+  <h3>🗄️ Banco de Dados & Auth</h3>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase&perline=3" width="260" />
 </div>
 
 <div align="center">
   <h3>🛠️ Tools & Deploy</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel&perline=6" width="520" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma,vercel&perline=7" width="540" />
+</div>
+
+<div align="center">
+  <h3>💎 Integrações & Libs</h3>
+  <br/>
+  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" />
+  <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/Biome-60A5FA?style=for-the-badge&logo=biome&logoColor=white" alt="Biome" />
 </div>
 
 
