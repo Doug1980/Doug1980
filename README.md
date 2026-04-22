@@ -70,10 +70,13 @@
 > 📦 [Repositório](https://github.com/Doug1980/douglas-salazar-portfolio)
 
 
+###
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Doug1980/douglas-salazar-portfolio/main/public/portfolio-preview.png" width="800" />
 </div>
+
+###
 
 
 
