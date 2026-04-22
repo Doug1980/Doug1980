@@ -3,8 +3,13 @@
 ###
 
 <p align="center">
-  <b>Desenvolvedor Full Stack</b> • São Paulo, Brasil 🇧🇷<br/>
-  <i>16+ anos em tecnologia • Contribuíndo para desenvolvimento web moderno</i>
+  <img src="https://img.shields.io/badge/Desenvolvedor-Full%20Stack-0077B5?style=for-the-badge" alt="Full Stack"/>
+  <img src="https://img.shields.io/badge/São%20Paulo-Brasil-009C3B?style=for-the-badge&logo=googleearth&logoColor=white" alt="São Paulo"/>
+  <img src="https://img.shields.io/badge/Experiência-16%2B%20anos-orange?style=for-the-badge" alt="Experiência"/>
+</p>
+
+<p align="center">
+  <i>Contribuindo para desenvolvimento web moderno</i>
 </p>
 
 ###
