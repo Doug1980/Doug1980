@@ -78,7 +78,7 @@
 ###
 
 <div align="center">
-  <img src="https://res-console.cloudinary.com/dj3jdgkyi/thumbnails/v1/image/upload/v1776867730/cG9ydGZvbGlvLXByZXZpZXdfcW56ZnFu/drilldown" width="1200" />
+  <img src="https://res.cloudinary.com/dj3jdgkyi/image/upload/v1776867730/portfolio-preview_qnzfqn.png" width="1000" />
 </div>
 
 ###
