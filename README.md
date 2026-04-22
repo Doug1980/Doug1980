@@ -78,7 +78,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Doug1980/douglas-salazar-portfolio/refs/heads/main/public/portfolio-preview.png?token=GHSAT0AAAAAAD3ABLNZM2IIZASEJOAZEPH22PI255A" width="1200" />
+  <img src="https://res-console.cloudinary.com/dj3jdgkyi/thumbnails/v1/image/upload/v1776867730/cG9ydGZvbGlvLXByZXZpZXdfcW56ZnFu/drilldown" width="1200" />
 </div>
 
 ###
