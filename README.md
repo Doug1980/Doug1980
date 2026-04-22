@@ -73,7 +73,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Doug1980/douglas-salazar-portfolio/main/public/portfolio-preview.png" width="800" />
+  <img src="https://raw.githubusercontent.com/Doug1980/douglas-salazar-portfolio/refs/heads/main/public/portfolio-preview.png?token=GHSAT0AAAAAAD3ABLNZM2IIZASEJOAZEPH22PI255A" width="1200" />
 </div>
 
 ###
