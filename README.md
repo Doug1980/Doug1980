@@ -32,7 +32,7 @@ Desenvolvedor Full Stack com **16+ anos de experiência em tecnologia**, em tran
 
 ---
 
-### 🚀 Projetos em destaque
+### 🚀 Projetos em destaque e ALTO IMPACTO!
 
 #### 💰 [DevBills PRO](https://devbills-frontend-xi.vercel.app/) — Gestão Financeira Pessoal
 > App full-stack de finanças pessoais com autenticação multi-provedor, categorização de transações, dashboards interativos e exportação de relatórios.
