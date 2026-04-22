@@ -11,23 +11,6 @@
 
 <div align="center">
   <h3>🎨 Frontend</h3>
-  <img height="65" src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,styledcomponents&perline=7" />
-</div>
-
-<div align="center">
-  <h3>⚙️ Backend</h3>
-  <img height="65" src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgres,firebase&perline=6" />
-</div>
-
-<div align="center">
-  <h3>🛠️ Tools & Deploy</h3>
-  <img height="65" src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,render&perline=7" />
-</div>
-
-###
-
-<div align="center">
-  <h3>🎨 Frontend</h3>
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,styledcomponents&perline=7" width="600" />
 </div>
 
@@ -40,6 +23,7 @@
   <h3>🛠️ Tools & Deploy</h3>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel&perline=6" width="520" />
 </div>
+
 
 ###
 
