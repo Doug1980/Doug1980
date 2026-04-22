@@ -45,7 +45,6 @@
 
 ###
 
-## 🚀 Projetos em Destaque
 
 ## 🚀 Projetos em Destaque
 
