@@ -1,0 +1,21 @@
+name: Generate Pacman Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate pacman graph
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: Doug1980
+          outputs_branch: output
