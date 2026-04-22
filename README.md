@@ -4,55 +4,24 @@
 
 <p align="center">
   <b>Desenvolvedor Full Stack</b> • São Paulo, Brasil 🇧🇷<br/>
-  <i>16+ anos em tecnologia • Em transição para desenvolvimento web moderno</i>
+  <i>16+ anos em tecnologia • Contribuíndo para desenvolvimento web moderno</i>
 </p>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=styledcomponents" height="60" alt="styled-components logo"  />
+  <h3>🎨 Frontend</h3>
+  <img height="65" src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,styledcomponents&perline=7" />
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="60" alt="prisma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo"  />
+  <h3>⚙️ Backend</h3>
+  <img height="65" src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgres,firebase&perline=6" />
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=render" height="60" alt="render logo"  />
+  <h3>🛠️ Tools & Deploy</h3>
+  <img height="65" src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,render&perline=7" />
 </div>
 
 ###
