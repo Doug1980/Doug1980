@@ -94,7 +94,7 @@
   <img src="https://streak-stats.demolab.com/?user=Doug1980&theme=tokyonight&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="Streak de commits"/>
 </div>
 
-## 🎮 Contribution Graph (Pacman)
+## 🎮 Graph (Pacman)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Doug1980/Doug1980/output/pacman-contribution-graph-dark.svg">
