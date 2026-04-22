@@ -1,7 +1,5 @@
 <h1 align="center">Olá, sou Douglas Salazar! Bora codar?</h1>
 
-###
-
 <p align="center">
   <img src="https://img.shields.io/badge/Desenvolvedor-Full%20Stack-0077B5?style=for-the-badge" alt="Full Stack"/>
   <img src="https://img.shields.io/badge/São%20Paulo-Brasil-009C3B?style=for-the-badge&logo=googleearth&logoColor=white" alt="São Paulo"/>
@@ -12,7 +10,7 @@
   <i>Contribuindo para desenvolvimento web moderno</i>
 </p>
 
-###
+---
 
 <div align="center">
   <h3>🎨 Frontend</h3>
@@ -47,9 +45,7 @@
   <img src="https://img.shields.io/badge/Biome-60A5FA?style=for-the-badge&logo=biome&logoColor=white" alt="Biome" />
 </div>
 
-
-###
-
+---
 
 ## 🚀 Projetos em Destaque
 
@@ -74,16 +70,19 @@
 >
 > 📦 [Repositório](https://github.com/Doug1980/douglas-salazar-portfolio)
 
+---
 
-###
+## 🌐 Preview do Portfólio
 
 <div align="center">
-  <img src="https://res.cloudinary.com/dj3jdgkyi/image/upload/v1776867730/portfolio-preview_qnzfqn.png" width="1000" />
+  <a href="https://douglas-salazar-portfolio.vercel.app/" target="_blank">
+    <img src="https://res.cloudinary.com/dj3jdgkyi/image/upload/v1776867730/portfolio-preview_qnzfqn.png" width="1000" alt="Preview do Portfólio Douglas Salazar" />
+  </a>
 </div>
 
-###
+---
 
-
+## 📊 Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://readme-stats-doug.vercel.app/api?username=Doug1980&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
@@ -94,7 +93,17 @@
   <img src="https://streak-stats.demolab.com/?user=Doug1980&theme=tokyonight&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="Streak de commits"/>
 </div>
 
-###
+---
+
+## 🕹️ Pac-Man Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Doug1980/Doug1980/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Doug1980/Doug1980/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Doug1980/Doug1980/output/pacman-contribution-graph.svg">
+</picture>
+
+---
 
 ## 📫 Vamos conversar?
 
@@ -113,15 +122,7 @@
   </a>
 </div>
 
-## 🎮 Graph (Pacman)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Doug1980/Doug1980/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Doug1980/Doug1980/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Doug1980/Doug1980/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+---
 
 <p align="center">
   <i>"Código limpo não é sobre mostrar o quanto você sabe — é sobre deixar o próximo dev agradecido por ler."</i>
