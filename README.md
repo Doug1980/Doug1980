@@ -27,18 +27,18 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/douglas-salazar-14521bba/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:douglassalazar1980@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://douglas-salazar-portfolio.vercel.app">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo"  />
-  </a>
-  <a href="https://github.com/Doug1980">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo"  />
-  </a>
+  <h3>🎨 Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,styledcomponents&perline=7" width="600" />
+</div>
+
+<div align="center">
+  <h3>⚙️ Backend</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgres,firebase&perline=6" width="520" />
+</div>
+
+<div align="center">
+  <h3>🛠️ Tools & Deploy</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel&perline=6" width="520" />
 </div>
 
 ###
