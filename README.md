@@ -69,7 +69,13 @@
 >
 > 📦 [Repositório](https://github.com/Doug1980/douglas-salazar-portfolio)
 
-###
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Doug1980/douglas-salazar-portfolio/main/public/portfolio-preview.png" width="800" />
+</div>
+
+
 
 <div align="center">
   <img height="180em" src="https://readme-stats-doug.vercel.app/api?username=Doug1980&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
