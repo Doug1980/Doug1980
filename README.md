@@ -47,14 +47,16 @@
 
 ## 🚀 Projetos em Destaque
 
-### 💰 [DevBills PRO](https://devbills-frontend-xi.vercel.app/) — Gestão Financeira Pessoal
+## 🚀 Projetos em Destaque
+
+### 💰 [DevBills PRO](https://devbillspro.vercel.app/) — Gestão Financeira Pessoal
 > App full-stack de finanças com autenticação multi-provedor, categorização, dashboards e exportação de relatórios.
 >
 > **Stack:** React • TypeScript • Tailwind • Fastify • Prisma • MongoDB Atlas • Firebase Auth • Zod
 >
-> 🔗 [Frontend](https://devbills-frontend-xi.vercel.app/) • ⚙️ [API](https://devbills-api-u72j.onrender.com) • 📦 [Repo Front](https://github.com/Doug1980/devbills-frontend) • 📦 [Repo API](https://github.com/Doug1980/devbills-api)
+> 🔗 [Frontend](https://devbillspro.vercel.app/) • ⚙️ [API](https://devbills-api-u72j.onrender.com) • 📦 [Repo Front](https://github.com/Doug1980/devbills-frontend) • 📦 [Repo API](https://github.com/Doug1980/devbills-api)
 
-### 🍔 [Dev Burger](https://dev-burger-frontend-nine.vercel.app/) — E-commerce
+### 🍔 [Dev Burger](https://devburguer-v2.vercel.app/) — E-commerce
 > E-commerce completo com painel admin, carrinho persistente, integração Stripe para pagamentos reais e JWT.
 >
 > **Stack:** React • Vite • Styled-Components • Node.js • Express • Sequelize • PostgreSQL • Stripe • JWT
@@ -65,6 +67,8 @@
 > Portfólio profissional com projetos, certificações verificáveis e design responsivo mobile-first.
 >
 > **Stack:** Next.js 16 • TypeScript • Tailwind CSS v4 • Vercel
+>
+> 📦 [Repositório](https://github.com/Doug1980/douglas-salazar-portfolio)
 
 ###
 
