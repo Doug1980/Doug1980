@@ -14,22 +14,22 @@
 
 <div align="center">
   <h3>🎨 Frontend</h3>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,styledcomponents,materialui&perline=8" width="600" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,styledcomponents,materialui&perline=8" width="400" />
 </div>
 
 <div align="center">
   <h3>⚙️ Backend</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,sequelize&perline=4" width="340" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,sequelize&perline=4" width="200" />
 </div>
 
 <div align="center">
   <h3>🗄️ Banco de Dados & Auth</h3>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase&perline=3" width="260" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase&perline=3" width="150" />
 </div>
 
 <div align="center">
   <h3>🛠️ Tools & Deploy</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma,vercel&perline=7" width="540" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma,vercel&perline=7" width="300" />
 </div>
 
 <div align="center">
