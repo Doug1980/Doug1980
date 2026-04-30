@@ -50,7 +50,7 @@
 ## 🚀 Projetos em Destaque
 
 ### 💲 [FX Finance](https://fxfinance.vercel.app/) — Conversor de Moedas e Contações em Tempo Real
-> Plataforma fintech com cotações em tempo real de moedas, acompanhamento das ações nacionais, internacionais e mercado das criptomoedas.
+> Plataforma fintech com cotações em tempo real de moedas, acompanhamento das ações nacionais, internacionais e mercado de criptomoedas.
 >
 > **Stack:** React • TypeScript • Tailwind Css  • Next.js • Framer Motion • Vercel 
 >
