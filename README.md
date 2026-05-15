@@ -60,7 +60,7 @@
 >
 > **Stack:** React • TypeScript • Tailwind • Fastify • Prisma • MongoDB Atlas • Firebase Auth • Zod
 >
-> 🔗 [Frontend](https://devbillspro.vercel.app/) • ⚙️ [API](https://devbills-api-u72j.onrender.com) • 📦 [Repo Front](https://github.com/Doug1980/devbills-frontend) • 📦 [Repo API](https://github.com/Doug1980/devbills-api)
+> 🔗 [Deploy](https://devbillspro.vercel.app/) • ⚙️ [API](https://devbills-api-u72j.onrender.com) • 📦 [Repo Front](https://github.com/Doug1980/devbills-frontend) 
 
 ### 🍔 [Dev Burger](https://devburguer-v2.vercel.app/) — E-commerce
 > E-commerce completo com painel admin, carrinho persistente, integração Stripe para pagamentos reais e JWT.
