@@ -67,14 +67,14 @@
 >
 > **Stack:** React • Vite • Styled-Components • Node.js • Express • Sequelize • PostgreSQL • Stripe • JWT
 >
-> 📦 [Repo Front](https://github.com/Doug1980/dev-burger-frontend) • 📦 [Repo Back](https://github.com/Doug1980/dev-burger-backend)
+> 🔗 [Deploy](https://devburguer-v2.vercel.app/) • 📦 [Repo Front](https://github.com/Doug1980/dev-burger-frontend) • 📦 [Repo Back](https://github.com/Doug1980/dev-burger-backend)
 
 ### 🌐 [Portfólio Pessoal](https://douglas-salazar-portfolio.vercel.app/) — Next.js 16
 > Portfólio profissional com projetos, certificações verificáveis e design responsivo mobile-first.
 >
 > **Stack:** Next.js 16 • TypeScript • Tailwind CSS v4 • Vercel
 >
-> 📦 [Repositório](https://github.com/Doug1980/douglas-salazar-portfolio)
+> 🔗 [Deploy](https://douglas-salazar-portfolio.vercel.app/) • 📦 [Repositório](https://github.com/Doug1980/douglas-salazar-portfolio)
 
 ---
 
