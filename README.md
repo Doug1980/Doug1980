@@ -54,8 +54,7 @@
 >
 > **Stack:** React • TypeScript • Tailwind Css  • Next.js • Framer Motion • Vercel 
 >
-> 🔗 [Frontend](https://devbillspro.vercel.app/) • ⚙️ [API](https://devbills-api-u72j.onrender.com) • 📦 [Repo Front](https://github.com/Doug1980/devbills-frontend) • 📦 [Repo API](https://github.com/Doug1980/devbills-api)
-
+> 🔗 [Deploy](https://fxfinance.vercel.app/) • 📦 [Repo Front](https://github.com/Doug1980/currency-stocks-dashboard) 
 ### 💰 [DevBills PRO](https://devbillspro.vercel.app/) — Gestão Financeira Pessoal
 > App full-stack de finanças com autenticação multi-provedor, categorização, dashboards e exportação de relatórios.
 >
