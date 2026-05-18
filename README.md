@@ -90,15 +90,27 @@
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Doug1980&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doug1980&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
-</div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Doug1980&theme=tokyonight&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="Streak de commits"/>
+
+  <img src="https://img.shields.io/github/followers/Doug1980?style=for-the-badge&logo=github&label=Seguidores&color=7C3AED" />
+
+  <img src="https://img.shields.io/github/stars/Doug1980?style=for-the-badge&logo=github&label=Stars&color=F59E0B" />
+
+  <img src="https://img.shields.io/github/last-commit/Doug1980/douglas-salazar-portfolio?style=for-the-badge&color=22C55E" />
+
 </div>
+
+<br/>
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Doug1980&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+
+<div align="center"> <img src="https://streak-stats.demolab.com/?user=Doug1980&theme=tokyonight&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="Streak de commits"/> </div>
 
 ---
 
