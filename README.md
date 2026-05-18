@@ -91,8 +91,9 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://readme-stats-doug.vercel.app/api?username=Doug1980&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="180em" src="https://readme-stats-doug.vercel.app/api/top-langs/?username=Doug1980&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Doug1980&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doug1980&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
 </div>
 
 <div align="center">
