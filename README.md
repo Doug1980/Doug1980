@@ -49,20 +49,32 @@
 
 ## 🚀 Projetos em Destaque
 
+### 🔐 [Access Control](https://crud-usuarios-beta.vercel.app/) — Gestão de Usuários com RBAC em Tempo Real
+
+> Painel administrativo com controle de acesso por papéis e hierarquia de permissões, autenticação social e sincronização em tempo real — a promoção de um usuário a admin reflete na hora, sem refresh. Núcleo de autorização coberto por testes automatizados.
+>
+> **Stack:** Next.js 16 • TypeScript • Tailwind CSS • Firebase Auth • MongoDB • Pusher • Vitest • Vercel
+>
+> 🔗 [Deploy](https://crud-usuarios-beta.vercel.app/) • 📦 [Repositório](https://github.com/Doug1980/access-control)
+
 ### 💲 [FX Finance](https://fxfinance.vercel.app/) — Conversor de Moedas e Contações em Tempo Real
+
 > Plataforma fintech com cotações em tempo real de moedas, acompanhamento das ações nacionais, internacionais e mercado de criptomoedas.
 >
-> **Stack:** React • TypeScript • Tailwind Css  • Next.js • Framer Motion • Vercel 
+> **Stack:** React • TypeScript • Tailwind Css • Next.js • Framer Motion • Vercel
 >
-> 🔗 [Deploy](https://fxfinance.vercel.app/) • 📦 [Repo Front](https://github.com/Doug1980/currency-stocks-dashboard) 
+> 🔗 [Deploy](https://fxfinance.vercel.app/) • 📦 [Repo Front](https://github.com/Doug1980/currency-stocks-dashboard)
+
 ### 💰 [DevBills PRO](https://devbillspro.vercel.app/) — Gestão Financeira Pessoal
+
 > App full-stack de finanças com autenticação multi-provedor, categorização, dashboards e exportação de relatórios.
 >
 > **Stack:** React • TypeScript • Tailwind • Fastify • Prisma • MongoDB Atlas • Firebase Auth • Zod
 >
-> 🔗 [Deploy](https://devbillspro.vercel.app/) • ⚙️ [API](https://devbills-api-u72j.onrender.com) • 📦 [Repo Front](https://github.com/Doug1980/devbills-frontend) 
+> 🔗 [Deploy](https://devbillspro.vercel.app/) • ⚙️ [API](https://devbills-api-u72j.onrender.com) • 📦 [Repo Front](https://github.com/Doug1980/devbills-frontend)
 
 ### 🍔 [Dev Burger](https://devburguer-v2.vercel.app/) — E-commerce
+
 > E-commerce completo com painel admin, carrinho persistente, integração Stripe para pagamentos reais e JWT.
 >
 > **Stack:** React • Vite • Styled-Components • Node.js • Express • Sequelize • PostgreSQL • Stripe • JWT
@@ -70,6 +82,7 @@
 > 🔗 [Deploy](https://devburguer-v2.vercel.app/) • 📦 [Repo Front](https://github.com/Doug1980/dev-burger-frontend) • 📦 [Repo Back](https://github.com/Doug1980/dev-burger-backend)
 
 ### 🌐 [Portfólio Pessoal](https://douglas-salazar-portfolio.vercel.app/) — Next.js 16
+
 > Portfólio profissional com projetos, certificações verificáveis e design responsivo mobile-first.
 >
 > **Stack:** Next.js 16 • TypeScript • Tailwind CSS v4 • Vercel
@@ -90,27 +103,21 @@
 
 ## 📊 Estatísticas do GitHub
 
-
 <div align="center">
-
   <img src="https://img.shields.io/github/followers/Doug1980?style=for-the-badge&logo=github&label=Seguidores&color=7C3AED" />
-
   <img src="https://img.shields.io/github/stars/Doug1980?style=for-the-badge&logo=github&label=Stars&color=F59E0B" />
-
   <img src="https://img.shields.io/github/last-commit/Doug1980/douglas-salazar-portfolio?style=for-the-badge&color=22C55E" />
-
 </div>
 
 <br/>
 
 <div align="center">
-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Doug1980&theme=tokyo-night&hide_border=true&area=true"/>
-
 </div>
 
-
-<div align="center"> <img src="https://streak-stats.demolab.com/?user=Doug1980&theme=tokyonight&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="Streak de commits"/> </div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Doug1980&theme=tokyonight&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="Streak de commits"/>
+</div>
 
 ---
 
@@ -136,7 +143,7 @@
   <a href="https://douglas-salazar-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
- </div>
+</div>
 
 ---
 
