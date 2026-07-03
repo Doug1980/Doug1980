@@ -71,7 +71,7 @@
 >
 > 🔗 [Deploy](https://crud-usuarios-beta.vercel.app/) • 📦 [Repositório](https://github.com/Doug1980/access-control)
 
-### 💲 [FX Finance](https://fxfinance.vercel.app/) — Conversor de Moedas e Contações em Tempo Real
+### 💲 [FX Finance](https://fxfinance.vercel.app/) — Conversor de Moedas e Cotações em Tempo Real
 
 > Plataforma fintech com cotações em tempo real de moedas, acompanhamento das ações nacionais, internacionais e mercado de criptomoedas.
 >
