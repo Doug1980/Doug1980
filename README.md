@@ -36,6 +36,11 @@
   <h3>💎 Integrações & Libs</h3>
   <br/>
   <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" />
+  <img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white" alt="Hono" />
+  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle ORM" />
+  <img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" alt="Turborepo" />
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
   <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white" alt="Stripe" />
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
   <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
@@ -43,11 +48,20 @@
   <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" />
   <img src="https://img.shields.io/badge/Biome-60A5FA?style=for-the-badge&logo=biome&logoColor=white" alt="Biome" />
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
 </div>
 
 ---
 
 ## 🚀 Projetos em Destaque
+
+### 📡 [AEO & SEO Radar](https://aeo-seo-radar.vercel.app/) — Auditoria de SEO & AEO com IA
+
+> Dashboard full stack que audita qualquer domínio em segundos: valida dados estruturados (schema markup / JSON-LD), mede Core Web Vitals via Google PageSpeed, detecta sites renderizados no cliente (CSR) e gera recomendações automáticas com IA. O diferencial é o **AEO (Answer Engine Optimization)** — mede o quão preparado um site está para ser citado por ChatGPT, Perplexity e Google AI Overviews. Arquitetura em monorepo, tipagem estrita e núcleo coberto por testes.
+>
+> **Stack:** Next.js 16 • TypeScript • Tailwind CSS v4 • Hono • Drizzle ORM • PostgreSQL (Neon) • Zod • Turborepo • Groq (IA) • JWT • Vitest • Vercel • Railway
+>
+> 🔗 [Deploy](https://aeo-seo-radar.vercel.app/) • ⚙️ [API](https://aeo-seo-radarapi-production.up.railway.app/health) • 📦 [Repositório](https://github.com/Doug1980/aeo-seo-radar)
 
 ### 🔐 [Access Control](https://crud-usuarios-beta.vercel.app/) — Gestão de Usuários com RBAC em Tempo Real
 
@@ -106,7 +120,7 @@
 <div align="center">
   <img src="https://img.shields.io/github/followers/Doug1980?style=for-the-badge&logo=github&label=Seguidores&color=7C3AED" />
   <img src="https://img.shields.io/github/stars/Doug1980?style=for-the-badge&logo=github&label=Stars&color=F59E0B" />
-  <img src="https://img.shields.io/github/last-commit/Doug1980/douglas-salazar-portfolio?style=for-the-badge&color=22C55E" />
+  <img src="https://img.shields.io/github/last-commit/Doug1980/aeo-seo-radar?style=for-the-badge&color=22C55E" />
 </div>
 
 <br/>
