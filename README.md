@@ -101,7 +101,7 @@
 >
 > **Stack:** Next.js 16 • TypeScript • Tailwind CSS v4 • Vercel
 >
-> 🔗 [Deploy](https://douglas-salazar-portfolio.vercel.app/) • 📦 [Repositório](https://github.com/Doug1980/douglas-salazar-portfolio)
+> 🔗 [Deploy](https://douglas-salazar-portifolio.vercel.app/) • 📦 [Repositório](https://github.com/Doug1980/douglas-salazar-portfolio)
 
 ---
 
