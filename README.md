@@ -109,7 +109,7 @@
 
 <div align="center">
   <a href="https://douglas-salazar-portifolio.vercel.app/" target="_blank">
-    <img src="https://res.cloudinary.com/dj3jdgkyi/image/upload/v1776867730/portfolio-preview_qnzfqn.png" width="1000" alt="Preview do Portfólio Douglas Salazar" />
+    <img src="https://res.cloudinary.com/dj3jdgkyi/image/upload/v1776867730/portfolio-preview_qnzfqn.png" width="1000" alt="Preview do Portifólio Douglas Salazar" />
   </a>
 </div>
 
