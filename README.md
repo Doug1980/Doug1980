@@ -108,7 +108,7 @@
 ## 🌐 Preview do Portfólio
 
 <div align="center">
-  <a href="https://douglas-salazar-portfolio.vercel.app/" target="_blank">
+  <a href="https://douglas-salazar-portifolio.vercel.app/" target="_blank">
     <img src="https://res.cloudinary.com/dj3jdgkyi/image/upload/v1776867730/portfolio-preview_qnzfqn.png" width="1000" alt="Preview do Portfólio Douglas Salazar" />
   </a>
 </div>
