@@ -95,9 +95,9 @@
 >
 > 🔗 [Deploy](https://devburguer-v2.vercel.app/) • 📦 [Repo Front](https://github.com/Doug1980/dev-burger-frontend) • 📦 [Repo Back](https://github.com/Doug1980/dev-burger-backend)
 
-### 🌐 [Portfólio Pessoal](https://douglas-salazar-portfolio.vercel.app/) — Next.js 16
+### 🌐 [Portifólio Pessoal](https://douglas-salazar-portfolio.vercel.app/) — Next.js 16
 
-> Portfólio profissional com projetos, certificações verificáveis e design responsivo mobile-first.
+> Portifólio profissional com projetos, certificações verificáveis e design responsivo mobile-first.
 >
 > **Stack:** Next.js 16 • TypeScript • Tailwind CSS v4 • Vercel
 >
@@ -105,7 +105,7 @@
 
 ---
 
-## 🌐 Preview do Portfólio
+## 🌐 Preview do Portifólio
 
 <div align="center">
   <a href="https://douglas-salazar-portifolio.vercel.app/" target="_blank">
