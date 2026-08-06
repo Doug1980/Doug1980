@@ -103,13 +103,13 @@
 >
 > 🔗 [Deploy](https://devburguer-v2.vercel.app/) • 📦 [Repo Front](https://github.com/Doug1980/dev-burger-frontend) • 📦 [Repo Back](https://github.com/Doug1980/dev-burger-backend)
 
-### 🌐 [Portifólio Pessoal](https://douglas-salazar-portfolio.vercel.app/) — Next.js 16
+### 🌐 [Portifólio Pessoal](https://douglas-salazar-portifolio.vercel.app/) — Next.js 16
 
 > Portifólio profissional com projetos, certificações verificáveis e design responsivo mobile-first.
 >
 > **Stack:** Next.js 16 • TypeScript • Tailwind CSS v4 • Vercel
 >
-> 🔗 [Deploy](https://douglas-salazar-portifolio.vercel.app/) • 📦 [Repositório](https://github.com/Doug1980/douglas-salazar-portfolio)
+> 🔗 [Deploy](https://douglas-salazar-portifolio.vercel.app/) • 📦 [Repositório](https://github.com/Doug1980/douglas-salazar-portifolio)
 
 ---
 
@@ -162,8 +162,8 @@
   <a href="mailto:douglas.dev.salazar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://douglas-salazar-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <a href="https://douglas-salazar-portifolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portifolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portifolio"/>
   </a>
 </div>
 
