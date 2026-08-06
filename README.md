@@ -55,6 +55,14 @@
 
 ## 🚀 Projetos em Destaque
 
+### 🚿 [LavaÁgil](https://lava-agil.vercel.app/agendar) — Agendamento para Lava-Rápido e Estética Automotiva
+
+> Sistema de agendamento onde a **grade de horários se recalcula em tempo real** conforme o cliente monta o atendimento (porte do veículo + serviço base + adicionais) — nunca é oferecido um horário que não caberia antes do fechamento. O overbooking é impedido no próprio banco, com constraint de exclusão temporal no PostgreSQL, e não por validação em JavaScript. Cliente agenda sem cadastro e acompanha por código (`LA-XXXXXX`); o admin tem painel com filtros, máquina de estados, soft-delete e lixeira. Regras de negócio cobertas por testes.
+>
+> **Stack:** Next.js 16 • TypeScript • Tailwind CSS v4 • shadcn/ui • Drizzle ORM • PostgreSQL (Neon) • Firebase Auth • TanStack Query • React Hook Form • Zod • Nodemailer • Vitest • Biome • Vercel
+>
+> 🔗 [Deploy](https://lava-agil.vercel.app/agendar) • 🔐 [Painel Admin](https://lava-agil.vercel.app/entrar) • 📦 [Repositório](https://github.com/Doug1980/lava-agil)
+
 ### 📡 [AEO & SEO Radar](https://aeo-seo-radar.vercel.app/) — Auditoria de SEO & AEO com IA
 
 > Dashboard full stack que audita qualquer domínio em segundos: valida dados estruturados (schema markup / JSON-LD), mede Core Web Vitals via Google PageSpeed, detecta sites renderizados no cliente (CSR) e gera recomendações automáticas com IA. O diferencial é o **AEO (Answer Engine Optimization)** — mede o quão preparado um site está para ser citado por ChatGPT, Perplexity e Google AI Overviews. Arquitetura em monorepo, tipagem estrita e núcleo coberto por testes.
